@@ -670,14 +670,12 @@ Rice-Saver/
 
 Developed as a collaborative engineering project for the IEEE Arduino Challenge Sphere 2024.
 
-> Add your team members and their respective roles here.
+> 
+| Member           | Role                                                                       |
+| -----------------| -------------------------------------------------------------------------- |
+| Inuka Jithmal(Me)| Embedded Systems,Hardware & Electronics,Mechanical Design , Documentation  |                 
+| Vihanga Nimsara  | Software & Control                                                         |
 
-| Member        | Role                              |
-| ------------- | --------------------------------- |
-| Team Member 1 | Embedded Systems                  |
-| Team Member 2 | Hardware & Electronics            |
-| Team Member 3 | Software & Control                |
-| Team Member 4 | Mechanical Design / Documentation |
 
 ---
 
